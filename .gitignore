@@ -1,0 +1,5 @@
+pdfoid.egg-info
+start-pdf.sh
+env/
+pdfoid/__pycache__/
+pdfoid/backends/__pycache__/
