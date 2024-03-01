@@ -14,7 +14,7 @@ setup(
             'pdfoid = pdfoid.main:main',
         ]
     },
-    install_requires=['tornado', 'selenium'],
+    install_requires=['tornado', 'selenium==4.9.1', 'chromedriver-autoinstaller'],
     extras_require={
         'test': ['requests'],
     },
